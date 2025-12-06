@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    color: black;
+    text-decoration: none;
+    border-bottom: 5px solid black;
+    margin: 60px;
+}
+h1 {
+    text-align: center;
+}
+main img {
+    border-left: 10px dotted black;
+}
+footer {
+    background-color:  black;
+    padding: 6px;
+}
+.m2 {
+    background-color: white;
+}
